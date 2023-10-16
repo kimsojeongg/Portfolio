@@ -280,7 +280,7 @@ body {
 .tablet {
     position: absolute;
     top: 680px;
-    left: 250px;
+    left: 200px;
     width: 450px;
     height: 300px;
     border-radius: 20px;
@@ -311,7 +311,7 @@ body {
 .phone {
     position: absolute;
     top: 670px;
-    right: 350px;
+    right: 230px;
     width: 180px;
     height: 320px;
     border-radius: 20px;

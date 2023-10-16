@@ -128,16 +128,16 @@ $(function () {
 
     /* skills */
     function skillsProgressbar() {
-        var htmlNum = 80;
-        var cssNum = 75;
-        var javascriptNum = 75;
-        var jqueryNum = 70;
-        var photoshopNum = 60;
-        var illustratorNum = 65;
-        var figmaNum = 65;
-        var bootstrapNum = 65;
-        var reactNum = 65;
-        var githubNum = 65;
+        var htmlNum = 95;
+        var cssNum = 95;
+        var javascriptNum = 85;
+        var jqueryNum = 85;
+        var photoshopNum = 80;
+        var illustratorNum = 75;
+        var figmaNum = 85;
+        var bootstrapNum = 85;
+        var reactNum = 80;
+        var githubNum = 75;
         var max = 100;
         var duration = 1500;
 
